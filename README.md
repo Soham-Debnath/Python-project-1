@@ -1,1 +1,1 @@
- This is JARVIS an ai assitant programmed in Python
+ This is JARVIS an ai assitant, programmed in Python
